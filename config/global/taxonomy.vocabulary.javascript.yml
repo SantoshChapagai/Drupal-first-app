@@ -1,0 +1,8 @@
+uuid: 45c7403f-7710-4dcc-a9f5-ba7f406cab4c
+langcode: en
+status: true
+dependencies: {  }
+name: Javascript
+vid: javascript
+description: ''
+weight: 0

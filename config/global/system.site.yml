@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: da0d1515-e315-401f-945c-bb4a497a4295
+name: 'Drupal at its best'
+mail: admin@example.com
+slogan: 'Drupal is awesome platform'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

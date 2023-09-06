@@ -1,0 +1,4 @@
+name: Navigating Menu
+description: Navigating to the five different routes
+type: module
+core_version_requirement: ^9 || ^10

@@ -1,0 +1,7 @@
+navigate_module.page:
+  path: /navigate
+  defaults:
+    _controller: '\Drupal\navigate_module\Controller\NavigateController::navigate'
+    _title: "Navigate Module"
+  requirements:
+    _permission: "access content"
